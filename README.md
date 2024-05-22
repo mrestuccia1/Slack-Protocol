@@ -8,7 +8,7 @@ Users will be able to connect to the server by running:
 * NICK <Your desired nickname>
 * USER <Your desisered username> * * :<Your full name>
 
-### User Cammands  
+### User Commands  
 Once registered, users can do the following:
 * Join or create new channels using the JOIN command (e.g. JOIN #example)
 * Privately message users or channels (e.g. Message a _test_ user/channel using PRIVMSG _test_ :Your Message)
