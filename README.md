@@ -18,5 +18,5 @@ Once registered, users can do the following:
 ### Distributed Sytem  
 If a user has operator priviledges, they may register a new server to connect with the current server. This serves the purpose of turning this into a distributed system, making it more robust to one server's failure. Each connected server shares the exact same information, and a new one can be registered as follows:
 
-
-  
+### Credits
+The tests and the some setup was done by my professor, and I worked with a partner on this.
